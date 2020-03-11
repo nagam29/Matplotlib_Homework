@@ -1,5 +1,7 @@
 # Matplotlib_Homework
 
+(My program file is Pymaceuticals.ipynb)
+
 Observations and Inferences Based on the Data
 
 Based on the summary statistics, two drugs, Capomulin and Ramicane, seem to be effective for reducing tumor sizes. Both presented about 40 mm3 tumor sizes on average. This size was more than 10 mm3 smaller than the average tumor sizes of mice with other drugs. 
